@@ -6,4 +6,7 @@
 //  Copyright © 2017 Prakash T, Tapan. All rights reserved.
 //
 
-import Foundation
+
+struct TopStory {
+  var storyId: String
+}
